@@ -66,10 +66,10 @@ module.exports = {
   VERSION : process.env.VERSION || "V.1.2.8",
   caption : process.env.CAPTION || "©ⁱᵇʳᵃʰⁱᵐ ᵗᵉᶜʰ💥90✴" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Ibrahim",
-  packname: process.env.PACK_NAME || "👑",
-  botname : process.env.BOT_NAME  || " 𝗜𝗕𝗥𝗔𝗛𝗜𝗠-ᵐᵈ",
-  ownername:process.env.OWNER_NAME|| "It'x 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+  author : process.env.PACK_AUTHER|| "bsahtk🙂❤️",
+  packname: process.env.PACK_NAME || "✪𝙼𝙸𝙺𝙴𝚈☾︎𝕤𝕚𝕞𝕠☽︎•••  ✌︎⃢ ☕︎",
+  botname : process.env.BOT_NAME  || "✪𝙼𝙸𝙺𝙴𝚈☾︎𝕤𝕚𝕞𝕠☽︎•••  ✌︎⃢ ☕︎",
+  ownername:process.env.OWNER_NAME|| "✪𝙼𝙸𝙺𝙴𝚈☾︎𝕤𝕚𝕞𝕠☽︎•••  ✌︎⃢ ☕︎",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
